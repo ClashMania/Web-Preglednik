@@ -1,0 +1,33 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\bin\Debug\Web.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\bin\Debug\Web.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\bin\Debug\Web.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Web\obj\Debug\Web.pdb
+D:\Codes\Web\bin\Debug\Web.exe.config
+D:\Codes\Web\bin\Debug\Web.exe
+D:\Codes\Web\bin\Debug\Web.pdb
+D:\Codes\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Codes\Web\obj\Debug\Web.csproj.SuggestedBindingRedirects.cache
+D:\Codes\Web\obj\Debug\Web.Form1.resources
+D:\Codes\Web\obj\Debug\Web.Properties.Resources.resources
+D:\Codes\Web\obj\Debug\Web.csproj.GenerateResource.cache
+D:\Codes\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Codes\Web\obj\Debug\Web.exe
+D:\Codes\Web\obj\Debug\Web.pdb
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\bin\Debug\Web.exe.config
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\bin\Debug\Web.exe
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\bin\Debug\Web.pdb
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.Form1.resources
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.Properties.Resources.resources
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.csproj.GenerateResource.cache
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.exe
+C:\Users\ucenik\Downloads\Web_Browser-main\Web\obj\Debug\Web.pdb
